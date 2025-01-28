@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Karushi Abigael</h1>
-<h3 align="right">A passionate software developer and a blockchain enthusiast.</h3>
+<h1 align="left">Hi 👋, I'm Karushi Abigael</h1>
+<h3 align="left">A passionate software developer and a blockchain enthusiast.</h3>
 
 - 🌱 I’m currently learning **Cyber security.**
 
